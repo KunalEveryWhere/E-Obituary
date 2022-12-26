@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc84e844.css",
+    "main.js": "/static/js/main.b3ce7915.js",
+    "static/media/template3BGImage.svg": "/static/media/template3BGImage.852ac3e092bb7823e5460b3dda642a6b.svg",
+    "static/media/template6BGImage.svg": "/static/media/template6BGImage.1ecf35e034ec109195938c363cdb733a.svg",
+    "static/media/template5BGImage.svg": "/static/media/template5BGImage.7ffc3704dd8385bf643cd1de6b804555.svg",
+    "static/media/template7BGImage.svg": "/static/media/template7BGImage.6974ed7f781656c41c8c4265269a13bc.svg",
+    "static/media/template1BGImage.svg": "/static/media/template1BGImage.0f55a81f89f5c988d67ff463af4c3b87.svg",
+    "static/media/bg2-image.png": "/static/media/bg2-image.cbba3f39724d9cf5820c.png",
+    "static/media/template4BGImage.svg": "/static/media/template4BGImage.ee1a898dd3b4ddb7af2d72b8d65df4bf.svg",
+    "static/media/template2BGImage.svg": "/static/media/template2BGImage.a95254b894b5d52e892d55fc52f8af8b.svg",
+    "static/media/cp-logo.jpg": "/static/media/cp-logo.3c42efd7b75551bcf3f3.jpg",
+    "static/media/404-icon.png": "/static/media/404-icon.990d2cb155331bdecad8.png",
+    "index.html": "/index.html",
+    "main.bc84e844.css.map": "/static/css/main.bc84e844.css.map",
+    "main.b3ce7915.js.map": "/static/js/main.b3ce7915.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc84e844.css",
+    "static/js/main.b3ce7915.js"
+  ]
+}
