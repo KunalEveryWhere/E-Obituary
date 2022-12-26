@@ -16,7 +16,9 @@ https://admin-luxuriant-ashes-cans.netlify.app/; https://luxuriant-ashes-cans.ne
 ![image](https://user-images.githubusercontent.com/65479883/209567195-16a16bdc-35d1-4ba4-9083-695301aeaf91.png)
 
 
-![image](https://user-images.githubusercontent.com/65479883/209567207-579cc5ba-b140-46e5-b4e0-c1c89608cb63.png)
+![image](https://user-images.githubusercontent.com/65479883/209567207-579cc5ba-b140-46e5-b4e0-c1c89608cb63.png) ![image](https://user-images.githubusercontent.com/65479883/209567281-cda5e5ee-6fd3-4aba-a3f5-2a0456523130.png)   ![image](https://user-images.githubusercontent.com/65479883/209567298-064afa61-8201-4be1-b3f1-748c1b2662fd.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/65479883/209567220-31e30746-e007-465c-b9da-521a7a51a15c.png)
