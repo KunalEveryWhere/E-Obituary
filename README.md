@@ -1,5 +1,10 @@
 # E-Obituary
+
+This was an freelance full-stack project with admin side controls and customer-side portal. Some of the pages/codebase are "private" and thus cannot be viewed publicy here.
+
 https://admin-luxuriant-ashes-cans.netlify.app/; https://luxuriant-ashes-cans.netlify.app/; (the "Sites").  This Sites is owned and operated by 福豐玉石有限公司, located at 台中市北屯區軍功路一段61巷156號. These Sites are an E-Obituary Creation and Management Platform, and Customer View Portal.
+
+
 
 ![image](https://user-images.githubusercontent.com/65479883/209567177-80a82657-63bc-4e93-a639-c3257141aae2.png)
 
