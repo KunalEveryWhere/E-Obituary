@@ -4,7 +4,7 @@ This was an freelance full-stack project with admin side controls and customer-s
 
 https://admin-luxuriant-ashes-cans.netlify.app/; https://luxuriant-ashes-cans.netlify.app/; (the "Sites").  This Sites is owned and operated by 福豐玉石有限公司, located at 台中市北屯區軍功路一段61巷156號. These Sites are an E-Obituary Creation and Management Platform, and Customer View Portal.
 
-The Figma Design File can be found here: https://www.figma.com/file/pXnGAMwvmp4byZDfVD2Rzk/E-Invite-Dynamic-Page-and-Renderer?node-id=0%3A1&t=21G2McFUJt7kTfUZ-1
+The Figma Design File can be found here: https://drive.google.com/file/d/1yLjyiRyvdkZqJDwK_9ZA3pqhCtxF7VJ9/view?usp=share_link
 
 
 
