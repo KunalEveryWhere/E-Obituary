@@ -12,7 +12,7 @@ https://admin-luxuriant-ashes-cans.netlify.app/; https://luxuriant-ashes-cans.ne
 ![image](https://user-images.githubusercontent.com/65479883/209567050-948f60c8-547b-4f2d-a561-33f83ae9715a.png)
 
 
-![image](https://user-images.githubusercontent.com/65479883/209567066-be1ea6ac-311d-4452-bc89-0a1a5f2f056c.png)
+![image](https://user-images.githubusercontent.com/65479883/210558541-a14c7928-fbe7-4f8f-b610-d8ab9fa5b332.png)
 
 
 ![image](https://user-images.githubusercontent.com/65479883/209567105-43ad5a7d-b177-4e41-bba4-c706cf24f0b3.png)
