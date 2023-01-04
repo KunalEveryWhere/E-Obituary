@@ -6,6 +6,7 @@ https://admin-luxuriant-ashes-cans.netlify.app/; https://luxuriant-ashes-cans.ne
 
 The Figma Design File can be found here: https://drive.google.com/file/d/1yLjyiRyvdkZqJDwK_9ZA3pqhCtxF7VJ9/view?usp=share_link
 
+NOTE: The project files do not contain the ENV Setup File. You may use the .ENV file and key given to you during handover / contact me if need be.
 
 
 ![image](https://user-images.githubusercontent.com/65479883/209567177-80a82657-63bc-4e93-a639-c3257141aae2.png)
