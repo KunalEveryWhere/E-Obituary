@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13b6b8e7.css",
+    "main.js": "/static/js/main.2b6ea137.js",
+    "static/media/email-signup-example.jpg": "/static/media/email-signup-example.aa822bfabad9baaa598f.jpg",
+    "static/media/format-6-demo.png": "/static/media/format-6-demo.b0bd4704e78517b9de93.png",
+    "static/media/format-7-demo.png": "/static/media/format-7-demo.fb8bc9a6861ca8268def.png",
+    "static/media/format-5-demo.png": "/static/media/format-5-demo.6dc68046d47c1cdc8e42.png",
+    "static/media/format-4-demo.png": "/static/media/format-4-demo.fbc3c365843c1f51f6cf.png",
+    "static/media/format-3-demo.png": "/static/media/format-3-demo.183ca2d5705309106337.png",
+    "static/media/format-1-demo.png": "/static/media/format-1-demo.ca71f3c035cea10473a0.png",
+    "static/media/format-2-demo.png": "/static/media/format-2-demo.89bf163df083df7cd48f.png",
+    "static/media/cp-logo.jpg": "/static/media/cp-logo.3c42efd7b75551bcf3f3.jpg",
+    "static/media/404-icon.png": "/static/media/404-icon.990d2cb155331bdecad8.png",
+    "index.html": "/index.html",
+    "static/media/box-icon.svg": "/static/media/box-icon.dceec27e1a55a7cbbf55a95fa8331b08.svg",
+    "main.13b6b8e7.css.map": "/static/css/main.13b6b8e7.css.map",
+    "main.2b6ea137.js.map": "/static/js/main.2b6ea137.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13b6b8e7.css",
+    "static/js/main.2b6ea137.js"
+  ]
+}
